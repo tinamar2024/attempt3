@@ -9,6 +9,8 @@ navbar:
       href: about.html
     - text: "Projects"     ##### TOdo: the flexboard here
       href: projects.html  ##### Todo: stuff
+    - text: "FlexBoard"     ##### TOdo: the flexboard here
+      href: flexBoard.html  ##### Todo: stuff      
 output:
   html_document:
     theme: flatly

@@ -1,0 +1,9 @@
+name: "Attempt3-website"
+output_dir: "."
+navbar:
+  title: "RMD Attempt3 Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html

@@ -1,5 +1,11 @@
 ---
-title: "About Me"
+title: "About This Website"
 ---
 
-Why I am awesome. 
+This is the _third time_ in this week that I have tried to publish a html rendered by
+Rmd to Github. I am so glad it worked now.
+
+The best reference that I found which actually worked for me is:
+https://nickstrayer.me/RMarkdown_Sites_tutorial/
+
+Thank you so much, Nick!

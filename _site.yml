@@ -7,3 +7,9 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Projects"     ##### TOdo: the flexboard here
+      href: projects.html  ##### Todo: stuff
+output:
+  html_document:
+    theme: flatly
+    css: style.css
